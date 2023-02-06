@@ -17,7 +17,7 @@
 
 */
 
-package info.java;
+package com.foo;
 
 class HelloWorld {
   public static void main(String[] args) {
