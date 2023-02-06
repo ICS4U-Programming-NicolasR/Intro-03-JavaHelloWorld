@@ -17,7 +17,7 @@
 
 
 */
-package java.awt;
+package package-info.java;
 
 
 
