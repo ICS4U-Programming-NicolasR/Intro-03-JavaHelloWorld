@@ -1,5 +1,5 @@
 /**
-* My program says Hello World
+* My program says Hello World.
 *
 * @author  Nicolas Riscalas
 * @version 1.0
